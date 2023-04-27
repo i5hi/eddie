@@ -1,8 +1,10 @@
 # eddie
 
-`a spam reduction authorization service`
+an authorization service that presents challenges to your clients and authorizes access to your core services.
 
-eddie offers challenges to clients for reducing spam that reaches your core services.
+eddie does not perform any form of authentication and requires no use of personally identifiable data such as IP, email or phone number.
+
+eddie aims to minimizing spam and abuse of your core services.
 
 Supported challenges:
 
