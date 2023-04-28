@@ -15,4 +15,3 @@ provides a message string and difficulty for a hashcash challenge. client must e
 ## sliderpuzzle 
 
 provides 2 images and y-coordinate starting point. client must find the correct x coordinate to prove they are a human. (requires pairing with an appropriate client side library)
-
